@@ -2,6 +2,8 @@
 
 [YouTube Demo](https://youtu.be/FHL20EB8gOA)
 
+While the demo is shown played through an emulator, this game has been successfully tested on real hardware using a flash cart.
+
 Features:
 Game selection page.
 A universal pause system that allows you to return to the selection menu.
